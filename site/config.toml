@@ -1,0 +1,35 @@
+theme = "ananke"
+
+baseURL = "http://localhost:1313/"
+languageCode = "ru-ru"
+title = "Мой проект"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+  identifier = "about"
+  name = "О проекте"
+  url = "/about/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "team"
+  name = "Участники"
+  url = "/team/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "journal"
+  name = "Журнал"
+  url = "/blog/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "resources"
+  name = "Ресурсы"
+  url = "/resources/"
+  weight = 4
+
+
+

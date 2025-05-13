@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 May 2025 12:34:47 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/blog/second/</link>
+      <pubDate>Mon, 12 May 2025 12:34:47 +0300</pubDate>
+      <guid>http://localhost:1313/blog/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/blog/first/</link>
+      <pubDate>Mon, 12 May 2025 12:34:46 +0300</pubDate>
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Мероприятие в Полиграннике</title>
+      <link>http://localhost:1313/blog/third/</link>
+      <pubDate>Sun, 27 Apr 2025 12:34:47 +0300</pubDate>
+      <guid>http://localhost:1313/blog/third/</guid>
+      <description>&lt;h2 id=&#34;уважаемые-приключенцы&#34;&gt;Уважаемые приключенцы!&lt;/h2&gt;&#xA;&lt;p&gt;В эту астрологическую неделю анонсов зовем вас на еще одно мероприятие, которое улучшит ваш опыт игры в днд!&lt;/p&gt;&#xA;&lt;p&gt;Команда &lt;a href=&#34;https://t.me/CharCreatortelegram&#34;&gt;CharCreator&lt;/a&gt; устраивает демонстрацию своего проекта, на которой вы:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сделаете с помощью редактора своего любимого персонажа для игры в НРИ&lt;/li&gt;&#xA;&lt;li&gt;Протестируете авторскую настолку, благодаря чему снабдите вашего персонажа новым образом&lt;/li&gt;&#xA;&lt;li&gt;Опробуете созданного персонажа в тематическом ваншоте!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ну и конечно получите массу положительных эмоций!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ДАТА И ВРЕМЯ:&lt;/strong&gt; 27 апреля, 15:00&#xA;&lt;strong&gt;МЕСТО:&lt;/strong&gt; Большая Семёновская, 38, аудитория Б-306&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
