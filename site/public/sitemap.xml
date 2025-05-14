@@ -20,13 +20,12 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-04-21T13:45:02+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
-    <lastmod>2025-04-21T13:44:26+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/team/</loc>
   </url>
 </urlset>
