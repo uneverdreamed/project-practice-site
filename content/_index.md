@@ -1,5 +1,6 @@
 +++
 title = 'Главная страница'
+featured_image = '/images/background.png'
 draft = false
 +++
 
